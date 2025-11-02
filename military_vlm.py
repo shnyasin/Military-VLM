@@ -49,6 +49,7 @@ for root, dirs, files in os.walk("/content/military_dataset", topdown=True):
         print(name)
     break
 
+
 # Veri Analizi
 import pandas as pd
 import numpy as np
