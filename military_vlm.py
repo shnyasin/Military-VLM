@@ -12,7 +12,6 @@ drive.mount('/content/drive')
 # Drive klasörünü
 base_dir = "/content/drive/MyDrive"
 
-
 # GPU Kontrolü
 import torch
 
